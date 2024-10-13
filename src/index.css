@@ -12,7 +12,8 @@ a {
 }
 
 body {
-  background: url("./assets/backgrounds/bg-dark.jpg") center;
+  /* background: url("./assets/backgrounds/bg-dark.jpg") center; */
+  background-color: black;
   background-size: cover;
   background-position: cover;
   min-height: 100vh;

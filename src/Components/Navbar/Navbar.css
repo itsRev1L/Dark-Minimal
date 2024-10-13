@@ -1,5 +1,4 @@
 .header {
-  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -12,9 +11,12 @@
 }
 
 .logo {
-  font-size: 32px;
-  color: #fff;
-  font-weight: 700;
+  top: 80%;
+  left: 0;
+}
+.logoi {
+  width: 80px;
+  height: 80px;
 }
 
 .navbar a {
