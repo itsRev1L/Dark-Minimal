@@ -12,7 +12,6 @@ const ImageViewer = () => {
           <div className="ImgContainer">
             {Images.map((img, index) => (
               <img
-                style={{ filter: selectimg == img ? "8px" : "" }}
                 key={index}
                 src={img}
                 alt="none"
